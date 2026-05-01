@@ -1,5 +1,6 @@
-fastapi
-uvicorn
+streamlit
 transformers
 torch
 gtts
+speechrecognition
+streamlit-js-eval
